@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <picture>https://i.pinimg.com/736x/85/42/a7/8542a73e9cf120c2e1a7f3283a9fac37.jpg</picture>
+        <name>Nicole Zefanya</name>
+        <course>BSIT</course>
+        <year_level>3B-G2</year_level>
+        <adviser>Engr. Noemi P. Reyes</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+    <student>
+        <picture>https://hips.hearstapps.com/hmg-prod/images/sabrina-carpenter-grammy-faux-bob-copy-67a08f9edbf08.jpg?crop=0.531xw:0.798xh;0.219xw,0.0460xhresize=1120:*</picture>
+        <name>Sabrina Carpenter</name>
+        <course>BSIT</course>
+        <year_level>3B-G2</year_level>
+        <adviser>Engr. Noemi P. Reyes</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+    <student>
+        <picture>https://cdn.britannica.com/86/182086-050-5FB81069.jpg</picture>
+        <name> Taylor Swift</name>
+        <course>BSIT</course>
+        <year_level>3B-G2</year_level>
+        <adviser>Engr. Noemi P. Reyes</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+    <student>
+        <picture>https://www.billboard.com/wp-content/uploads/media/harry-styles-11-22-2015-billboard-1548.jpg?w=942h=623crop=1</picture>
+        <name>Harry Styles</name>
+        <course>BSIT</course>
+        <year_level>3B-G2</year_level>
+        <adviser>Engr. Noemi P. Reyes</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+    <student>
+        <picture>https://d3lzcn6mbbadaf.cloudfront.net/media/details/zayynuuumsdfs2022011512393420220115124425.jpg</picture>
+        <name>Zayn Malik</name>
+        <course>BSIT</course>
+        <year_level>3B-G2</year_level>
+        <adviser>Engr. Noemi P. Reyes</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+    <student>
+        <picture>https://hips.hearstapps.com/hmg-prod/images/singer-liam-payne-attends-the-world-premiere-of-i-am-bolt-news-photo-1729274426.jpg?crop=1xw:0.9998xh;center,topresize=1200:*</picture>
+        <name>Liam Payne</name>
+        <course>BSIT</course>
+        <year_level>3B-G2</year_level>
+        <adviser>Engr. Noemi P. Reyes</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+    <student>
+        <picture>https://hips.hearstapps.com/hmg-prod/images/niall-horan-visits-siriusxm-studios-on-february-27-2023-in-news-photo-1679321214.jpg?crop=0.493xw:0.737xh;0.300xw,0resize=1200:*</picture>
+        <name>Niall Horan</name>
+        <course>BSIT</course>
+        <year_level>3B-G2</year_level>
+        <adviser>Engr. Noemi P. Reyes</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+    <student>
+        <picture>https://ntvb.tmsimg.com/assets/assets/878202_v9_bb.jpg</picture>
+        <name>Loius Tomlinson</name>
+        <course>BSIT</course>
+       <year_level>3B-G2</year_level>
+        <adviser>Engr. Noemi P. Reyes</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+    <student>
+        <picture>https://www.rollingstone.com/wp-content/uploads/2023/07/Post-Malone-Album-Review-July-2023.jpg?w=1581h=1054crop=1</picture>
+        <name>Post Malone</name>
+        <course>BSIT</course>
+        <year_level>3B-G2</year_level>
+        <adviser>Engr. Noemi P. Reyes</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+    <student>
+        <picture>https://m.media-amazon.com/images/M/MV5BMzU4NzVjNWItZWU1Mi00ODM5LThjMGMtNTE5MzJjMGExYjg3XkEyXkFqcGc@._V1_.jpg</picture>
+        <name>Abel Tesfaye</name>
+        <course>BSIT</course>
+        <year_level>3B-G2</year_level>
+        <adviser>Engr. Noemi P. Reyes</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+      <student>
+        <picture>https://media.allure.com/photos/676971381c5311694308bb06/2:3/w_1804,h_2706,c_limit/billie%20eilish%20tiktok%20makeup%20tutorial.jpg</picture>
+        <name>Billie Eilish</name>
+        <course>BSIT</course>
+        <year_level>3B-G2</year_level>
+        <adviser>Engr. Noemi P. Reyes</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+    <student>
+        <picture>https://cdn.britannica.com/92/211792-050-E764F875/American-singer-Ariana-Grande-2018.jpg</picture>
+        <name>Ariana Grande</name>
+        <course>BSIT</course>
+        <year_level>3B-G2</year_level>
+        <adviser>Engr. Noemi P. Reyes</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+    
+</students>
